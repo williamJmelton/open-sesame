@@ -102,7 +102,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // axis because Columns are vertical (the cross axis would be
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
-          children: <Widget>[Image.asset('assets/images/logo.png')],
+          children: <Widget>[Image.asset('assets/images/dari.png')],
         ),
       ),
       floatingActionButton: FloatingActionButton(
